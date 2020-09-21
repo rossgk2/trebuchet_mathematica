@@ -4,7 +4,7 @@ The Mathematica file runs a simultation of how a specific real-life (but small) 
 
 ABSTRACT FOR THE PAPER
 
-"We  attempted  to  optimize  the  destructive  capabilities  of  a  trebuchet  by  theoretically  and  experimentally examining how changing the mass of the counterweight, the initial angle of the arm,and  the  presence  of  wheels  impacted  the  speed  of  the  trebuchet’s  projectile.   After  using  a  non-conservative force to capture the bending of the trebuchet arm during firing, we were able to closelymatch our theoretical and experimental results.  These results supported the ideas that an increasedcounterweight mass, an increased initial arm angle from the horizontal, or the addition of wheelscause an increase in final projectile speed."
+"We attempted to optimize the destructive capabilities of a trebuchet by theoretically and experimentally examining how changing the mass of the counterweight, the initial angle of the arm, and the presence of wheels impacted the speed of the trebuchet's projectile. After using a non-conservative force to capture the bending of the trebuchet arm during firing, we were able to closely match our theoretical and experimental results. These results supported the ideas that an increased counterweight mass, an increased initial arm angle from the horizontal, or the addition of wheels cause an increase in final projectile speed."
 
 
 DIVISION OF WORK
